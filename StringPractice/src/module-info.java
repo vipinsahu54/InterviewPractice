@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author vipin
+ *
+ */
+module stringPractice {
+}
